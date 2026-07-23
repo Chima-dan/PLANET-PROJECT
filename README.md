@@ -11,6 +11,19 @@ A backend Node.js application that processes NASA Kepler exoplanet datasets to i
 - Modular backend architecture
 - Error handling
 
+## 🚀 Project Highlights
+
+- Built a RESTful API with Express.js
+- Processed NASA Kepler datasets using CSV streams
+- Applied modular backend architecture
+- Implemented reusable data models
+- Filtered habitable planets based on scientific criteria
+
+## 📋 Requirements
+
+- Node.js
+- npm
+
 ## ⚙ Technologies Used
 
 ### Backend
@@ -26,14 +39,15 @@ A backend Node.js application that processes NASA Kepler exoplanet datasets to i
 - GitHub
 
 PLANET-PROJECT
+  │
+- ├── src/
+- ├── models/
+- ├── routes/
+- ├── data/
+- ├── package.json
+- └── README.md
 
-src/
-models/
-routes/
-data/
-package.json
-
-## Installation
+## ⚙ Installation
 
 *</> Bash*
 
@@ -51,9 +65,10 @@ npm start
 
 ## API
 
-| Method | Endpoint | Description                |
-| ------ | -------- | -------------------------- |
-| GET    | /planets | Retrieve habitable planets |
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | /planets | Retrieve habitable planets |
+
 
 ## 📚 Lessons Learned
 
@@ -68,6 +83,10 @@ npm start
 - Unit testing
 - Docker support
 - GraphQL API
+
+## 📄 License
+
+This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
