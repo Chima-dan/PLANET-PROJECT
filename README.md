@@ -69,7 +69,12 @@ npm start
 - Docker support
 - GraphQL API
 
+## 👨‍💻 Author
 
+**Amaechi Chimauche Daniel**
+
+- GitHub: https://github.com/Chima-dan
+- LinkedIn: https://linkedin.com/in/Amaechi-Chima
 
 
 
